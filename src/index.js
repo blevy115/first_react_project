@@ -10,6 +10,7 @@ var person = {
     "Star Wars, ",
     "Legend of Zelda, ",
     "One Piece ",
+    "Naruto",
   ]
 }
 
