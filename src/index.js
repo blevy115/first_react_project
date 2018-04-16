@@ -11,6 +11,7 @@ var person = {
     "Legend of Zelda, ",
     "One Piece ",
     "Naruto",
+    "Bleach",
   ]
 }
 
